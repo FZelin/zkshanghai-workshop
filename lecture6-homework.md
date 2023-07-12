@@ -15,7 +15,7 @@
 转换程序：
 * $f_1(x_1,x_2,x_3,x_1^{next},x_2^{next},x_3^{next}) = C - (A + B)$;
 * $f_2(x_1,x_2,x_3,x_1^{next},x_2^{next},x_3^{next}) = A^{next} - (B + C)$;
-* $f_3(X_1,x_2,x_3,x_1^{next},x_2^{next},x_3^{next}) = B^{next} - (C + A^{next})$.
+* $f_3(x_1,x_2,x_3,x_1^{next},x_2^{next},x_3^{next}) = B^{next} - (C + A^{next})$.
 
 如果 $i=2$ 行的状态转换为：
 * $f_1(x_1,x_2,x_3,x_1^{next},x_2^{next},x_3^{next}) = 8 - (3 + 5) = 0$;
